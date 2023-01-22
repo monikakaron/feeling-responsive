@@ -1,4 +1,4 @@
-- menu_name: "Dankeschön"
+- menu_name: "Thank you"
 
 - name: "Icons by Daniel Bruce"
   url: "http://entypo.com/"
@@ -10,7 +10,7 @@
   class: "services-newsletter"
   title: "Built on Foundation"
 
-- name: "Images by Unsplash"
+- name: "Images by Kabom & Unsplash"
   url: "http://unsplash.com/"
   class: "rss-link"
   title: "Images by Unsplash"
