@@ -49,11 +49,11 @@
   - title: "Other Fun Activities"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: Previous Activities
   url: "/documentation/"
   side: left
   dropdown:
-  - title: "Changelog"
+  - title: "Fun Happenings"
     url: "/changelog/"
   - title: "Roadmap"
     url: "/roadmap/"
