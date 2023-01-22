@@ -3,7 +3,7 @@
   side: left
 
 - title: "Activities"
-  url: "/activities/"
+  url: "/design/"
   side: left
   dropdown:
   - title: "Tours"
