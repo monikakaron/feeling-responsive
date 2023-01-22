@@ -3,11 +3,11 @@
   side: left
 
 - title: "Activities"
-  url: "/design/"
+  url: "/activities/"
   side: left
   dropdown:
   - title: "Tours"
-    url: "/Tours/"
+    url: "/activities/tours/"
   - title: "Events"
     url: "/design/typography/typography/"
   - title: "Outdoor Activities"
