@@ -6,13 +6,13 @@
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "Tours"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "Events"
     url: "/design/typography/typography/"
-  - title: "Page/Post"
+  - title: "Outdoor Activities"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
+  - title: "Wine § Food"
     url: "/design/post-left-sidebar/"
   - title: "Post-Right-Sidebar"
     url: "/design/post-right-sidebar/"
