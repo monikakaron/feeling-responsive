@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "Tours"
-    url: "/activities/tours/"
+    url: "/design/grid/"
   - title: "Events"
     url: "/design/typography/typography/"
   - title: "Outdoor Activities"
