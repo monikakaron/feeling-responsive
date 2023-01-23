@@ -4,7 +4,7 @@ header:
   image_fullwidth: Header_Kaj_Sweden_2020.jpg
 widget1:
   title: Blog & Portfolio
-  url: 'http://monikakaron.github.io/kabom.eu/feeling-responsive/blog/'
+  url: 'http://monikakaron.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
   text: >-
     Every good portfolio website has a blog with fresh news, thoughts and
