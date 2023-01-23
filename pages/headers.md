@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Travel Option
-title: Style your Header!
+title: Activities
 teaser: >-
   These are your options to style the header of each webpage individually.
   <em>Feeling Responsive</em> uses <a
