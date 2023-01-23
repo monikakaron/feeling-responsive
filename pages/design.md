@@ -1,11 +1,12 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+title: Travel Options
+subheadline: Different Tour Options You Can Make
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/design/"
+  image_fullwidth: Lofoten_2022.jpg
+permalink: /design/
+published: true
 ---
 <ul>
     {% for post in site.categories.design %}
