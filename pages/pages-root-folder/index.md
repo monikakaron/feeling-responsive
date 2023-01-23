@@ -5,7 +5,7 @@ header:
 widget1:
   title: Blog & Portfolio
   url: 'http://monikakaron.github.io/feeling-responsive/blog/'
-  image: Widget-1-Cloque.jpg width="302" height="182" alt=""/></a>
+  image: Widget-1-Cloque-302x182.jpg
   text: >-
     Every good portfolio website has a blog with fresh news, thoughts and
     develop&shy;ments of your activities. <em>Kabom Bikers Dream in
