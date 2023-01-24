@@ -8,9 +8,9 @@ widget1:
   image: Widget-1-Cloque-712x400.jpg
   text: >-
     Every good portfolio website has a blog with fresh news, thoughts and
-    develop&shy;ments of your activities. <em>Kabom Bikers Dream in
-    Portugal</em> offers you a fully functional blog with an archive page to
-    give readers a quick overview of all your posts.
+    developments of your activities. <em>Kabom Bikers Dream in Portugal</em>
+    offers you a fully functional blog with an archive page to give readers a
+    quick overview of all your posts.
 widget2:
   title: Why use this theme?
   url: 'http://phlow.github.io/feeling-responsive/info/'
