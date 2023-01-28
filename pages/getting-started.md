@@ -1,6 +1,6 @@
 ---
 layout: page
-show_meta: false
+show_meta: true
 title: Getting Started in 10 Steps To Your Dream
 subheadline: A Step-by-Step Guide
 teaser: >-
