@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: true
-title: Getting Started in 10 Steps To Your Dream
+title: 10 Steps To Your Dream
 subheadline: A Step-by-Step Guide
 teaser: >-
   This step-by-step guide helps you to customize Feeling Responsive to your
