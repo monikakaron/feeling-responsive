@@ -4,8 +4,8 @@ show_meta: true
 title: 10 Steps To Your Dream
 subheadline: A Step-by-Step Guide
 teaser: >-
-  This step-by-step guide helps you to customize Feeling Responsive to your
-  needs.
+  This step-by-step guide helps you fulfil your Bikers Dream with Kabom in
+  Lovely Portugal
 header:
   image_fullwidth: header_homepage_13.jpg
 permalink: /getting-started/
