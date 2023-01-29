@@ -11,7 +11,7 @@ header:
 permalink: /getting-started/
 published: true
 ---
-1. Figure out what is your most is your inner most burning dream.
+1. Figure out what is <em> your most inner most burning dream <em>.
 1. Are there any specific Tours in  "Activities"  "/design/" where you would find the vision you thought of?
 1. Add your own social media links and open `_data/socialmedia.yml`.
 1. Open `_sass/_01_settings_colors.scss` and adjust the the colors to your taste.
