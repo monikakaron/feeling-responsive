@@ -29,8 +29,7 @@
     url: "/design/video/"
   - title: "Gallery"
     url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+ 
 
 - title: "FAQ"
   url: "/headers/"
