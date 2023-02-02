@@ -28,10 +28,9 @@ widget3:
   url: 'http://monikakaron.github.io/feeling-responsive/blog/'
   image: Widget-1-Cloque-712x400.jpg
   text: >-
-    Every good portfolio website has a blog with fresh news, thoughts and
-    developments of your activities. <em>Kabom Bikers Dream in Portugal</em>
-    offers you a fully functional blog with an archive page to give readers a
-    quick overview of all your posts.
+    Every good website has a blog with fresh news, thoughts and developments of
+    upcoming activities. <em>Kabom Bikers Dream in Portugal</em> offers you this
+    with current activities, past experiences and upcoming news.
 callforaction:
   url: 'https://tinyletter.com/feeling-responsive'
   text: Inform me about new updates and features ›
