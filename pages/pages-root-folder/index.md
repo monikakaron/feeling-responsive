@@ -24,13 +24,14 @@ widget2:
     src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg"
     width="302" height="182" alt=""/></a>
 widget3:
-  title: Blog & Portfolio
+  title: Blog
   url: 'http://monikakaron.github.io/feeling-responsive/blog/'
   image: Widget-1-Cloque-712x400.jpg
   text: >-
-    Every good website has a blog with fresh news, thoughts and developments of
-    upcoming activities. <em>Kabom Bikers Dream in Portugal</em> offers you this
-    with current activities, past experiences and upcoming news.
+    Every good storyteller has a blog with old plots, fresh news and thoughts on
+    all the good stuff to come. <em>Kabom Bikers Dream in Portugal</em> is no
+    exception from this rule, so within a <em>'click'<em>, just view for
+    yourself the dreams we fulfilled, and the ones to come.
 callforaction:
   url: 'https://tinyletter.com/feeling-responsive'
   text: Inform me about new updates and features ›
