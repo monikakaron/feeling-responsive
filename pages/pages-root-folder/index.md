@@ -30,8 +30,8 @@ widget3:
   text: >-
     Every good storyteller has a blog with old plots, fresh news and thoughts on
     all the good stuff to come. <em>Kabom Bikers Dream in Portugal</em> is no
-    exception from this rule, so within a <em>'click'<em>, just view for
-    yourself the dreams we fulfilled, and the ones to come.
+    exception from this rule, so within a <em>click<em>, just view for yourself
+    the dreams we fulfilled, and the ones to come.
 callforaction:
   url: 'https://tinyletter.com/feeling-responsive'
   text: Inform me about new updates and features ›
