@@ -11,7 +11,7 @@ header:
 permalink: /getting-started/
 published: true
 ---
-1. Figure out what is <em> your most inner most burning dream <em>.
+1.Think hardly about what is <em> your most inner most burning dream <em>.
 1. Are there any specific <em>[Tours](https://kabom.eu/feeling-responsive/design/)<em> where you would find the vision you thought of?
 1. Any <em>[Events](https://kabom.eu/feeling-responsive/design/typography/typography/)<em> or <em>[Outdoor Activities](https://kabom.eu/feeling-responsive/design/typography/typography/)<em> that you want to attend or do? **<em>Just let us know!<em>** 
 1. Open `_sass/_01_settings_colors.scss` and adjust the the colors to your taste.
