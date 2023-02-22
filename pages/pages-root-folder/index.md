@@ -38,7 +38,7 @@ callforaction:
   style: alert
 permalink: /index.html
 homepage: true
-published: false
+published: true
 ---
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
